@@ -1,0 +1,10 @@
+c:\users\bárbara\Source\repos\Capitulo2\Capitulo2\bin\Debug\Capitulo2.exe.config
+c:\users\bárbara\Source\repos\Capitulo2\Capitulo2\bin\Debug\Capitulo2.exe
+c:\users\bárbara\Source\repos\Capitulo2\Capitulo2\bin\Debug\Capitulo2.pdb
+c:\users\bárbara\Source\repos\Capitulo2\Capitulo2\obj\Debug\Capitulo2.csprojResolveAssemblyReference.cache
+c:\users\bárbara\Source\repos\Capitulo2\Capitulo2\obj\Debug\Capitulo2.Form1.resources
+c:\users\bárbara\Source\repos\Capitulo2\Capitulo2\obj\Debug\Capitulo2.Properties.Resources.resources
+c:\users\bárbara\Source\repos\Capitulo2\Capitulo2\obj\Debug\Capitulo2.csproj.GenerateResource.Cache
+c:\users\bárbara\Source\repos\Capitulo2\Capitulo2\obj\Debug\Capitulo2.csproj.CoreCompileInputs.cache
+c:\users\bárbara\Source\repos\Capitulo2\Capitulo2\obj\Debug\Capitulo2.exe
+c:\users\bárbara\Source\repos\Capitulo2\Capitulo2\obj\Debug\Capitulo2.pdb
