@@ -1,0 +1,10 @@
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo3\Capitulo3\bin\Debug\Capitulo3.exe.config
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo3\Capitulo3\bin\Debug\Capitulo3.exe
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo3\Capitulo3\bin\Debug\Capitulo3.pdb
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo3\Capitulo3\obj\Debug\Capitulo3.csprojResolveAssemblyReference.cache
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo3\Capitulo3\obj\Debug\Capitulo3.Form1.resources
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo3\Capitulo3\obj\Debug\Capitulo3.Properties.Resources.resources
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo3\Capitulo3\obj\Debug\Capitulo3.csproj.GenerateResource.Cache
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo3\Capitulo3\obj\Debug\Capitulo3.csproj.CoreCompileInputs.cache
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo3\Capitulo3\obj\Debug\Capitulo3.exe
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo3\Capitulo3\obj\Debug\Capitulo3.pdb
