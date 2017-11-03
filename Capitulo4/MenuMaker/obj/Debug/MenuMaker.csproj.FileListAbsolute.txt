@@ -1,0 +1,10 @@
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo4\MenuMaker\obj\Debug\MenuMaker.csprojResolveAssemblyReference.cache
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo4\MenuMaker\obj\Debug\MenuMaker.Form1.resources
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo4\MenuMaker\obj\Debug\MenuMaker.Properties.Resources.resources
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo4\MenuMaker\obj\Debug\MenuMaker.csproj.GenerateResource.Cache
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo4\MenuMaker\obj\Debug\MenuMaker.csproj.CoreCompileInputs.cache
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo4\MenuMaker\bin\Debug\MenuMaker.exe.config
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo4\MenuMaker\bin\Debug\MenuMaker.exe
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo4\MenuMaker\bin\Debug\MenuMaker.pdb
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo4\MenuMaker\obj\Debug\MenuMaker.exe
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo4\MenuMaker\obj\Debug\MenuMaker.pdb

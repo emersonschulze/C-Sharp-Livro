@@ -1,0 +1,9 @@
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo4\Aniversario\bin\Debug\Aniversario.exe.config
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo4\Aniversario\bin\Debug\Aniversario.exe
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo4\Aniversario\bin\Debug\Aniversario.pdb
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo4\Aniversario\obj\Debug\Aniversario.Form1.resources
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo4\Aniversario\obj\Debug\Aniversario.Properties.Resources.resources
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo4\Aniversario\obj\Debug\Aniversario.csproj.GenerateResource.Cache
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo4\Aniversario\obj\Debug\Aniversario.csproj.CoreCompileInputs.cache
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo4\Aniversario\obj\Debug\Aniversario.exe
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo4\Aniversario\obj\Debug\Aniversario.pdb
