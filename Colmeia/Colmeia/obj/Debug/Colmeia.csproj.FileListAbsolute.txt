@@ -1,0 +1,10 @@
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Colmeia\Colmeia\bin\Debug\Colmeia.exe.config
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Colmeia\Colmeia\bin\Debug\Colmeia.exe
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Colmeia\Colmeia\bin\Debug\Colmeia.pdb
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Colmeia\Colmeia\obj\Debug\Colmeia.csprojResolveAssemblyReference.cache
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Colmeia\Colmeia\obj\Debug\Colmeia.Form1.resources
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Colmeia\Colmeia\obj\Debug\Colmeia.Properties.Resources.resources
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Colmeia\Colmeia\obj\Debug\Colmeia.csproj.GenerateResource.Cache
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Colmeia\Colmeia\obj\Debug\Colmeia.csproj.CoreCompileInputs.cache
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Colmeia\Colmeia\obj\Debug\Colmeia.exe
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Colmeia\Colmeia\obj\Debug\Colmeia.pdb
