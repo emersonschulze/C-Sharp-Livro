@@ -1,0 +1,9 @@
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo6\ExemploHeranca\bin\Debug\ExemploHeranca.exe.config
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo6\ExemploHeranca\bin\Debug\ExemploHeranca.exe
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo6\ExemploHeranca\bin\Debug\ExemploHeranca.pdb
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo6\ExemploHeranca\obj\Debug\ExemploHeranca.Form1.resources
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo6\ExemploHeranca\obj\Debug\ExemploHeranca.Properties.Resources.resources
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo6\ExemploHeranca\obj\Debug\ExemploHeranca.csproj.GenerateResource.Cache
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo6\ExemploHeranca\obj\Debug\ExemploHeranca.csproj.CoreCompileInputs.cache
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo6\ExemploHeranca\obj\Debug\ExemploHeranca.exe
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo6\ExemploHeranca\obj\Debug\ExemploHeranca.pdb
