@@ -1,0 +1,10 @@
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo7\CaraAlto\bin\Debug\CaraAlto.exe.config
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo7\CaraAlto\bin\Debug\CaraAlto.exe
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo7\CaraAlto\bin\Debug\CaraAlto.pdb
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo7\CaraAlto\obj\Debug\CaraAlto.csprojResolveAssemblyReference.cache
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo7\CaraAlto\obj\Debug\CaraAlto.Form1.resources
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo7\CaraAlto\obj\Debug\CaraAlto.Properties.Resources.resources
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo7\CaraAlto\obj\Debug\CaraAlto.csproj.GenerateResource.Cache
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo7\CaraAlto\obj\Debug\CaraAlto.csproj.CoreCompileInputs.cache
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo7\CaraAlto\obj\Debug\CaraAlto.exe
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo7\CaraAlto\obj\Debug\CaraAlto.pdb
