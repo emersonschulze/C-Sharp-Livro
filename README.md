@@ -13,6 +13,7 @@ Exercícios e exemplos do livro "Use a cabeça C# - 2010"
 
 * Capítulo 6 : Herança, entendendo classes base e contrutores
 
+* Capítulo 7 : Interfaces e classes abstratas
 
 -------------------------------------------------------------
 DESAFIOS
@@ -20,3 +21,5 @@ DESAFIOS
 * UmDiaDeCorridas
 
 * Colmeia
+
+* ConhecendoACasa
