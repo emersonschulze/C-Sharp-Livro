@@ -5,9 +5,9 @@ Exercícios e exemplos do livro "Use a cabeça C# - 2010"
 
 * Capítulo 2 : Criação de mais de uma classe e utilização de laços e condições
 
-* Capítulo 3 :  Compreensão das classes com mais profundidade e utilização de objetos com métodos e atributos
+* Capítulo 3 : Compreensão das classes com mais profundidade e utilização de objetos com métodos e atributos
 
-* Capítulo 4 : A importância dos tipos e referências, vetoers e coerção
+* Capítulo 4 : A importância dos tipos e referências, vetores e coerção
 
 * Capítulo 5 : Encapsulamento, a importância de mantar os atributos e mótodos protegidos
 
@@ -15,7 +15,7 @@ Exercícios e exemplos do livro "Use a cabeça C# - 2010"
 
 * Capítulo 7 : Interfaces e classes abstratas
 
-* Capítulo 8 : Listas e coleções (fila, pilha e dicionario)
+* Capítulo 8 : Listas e coleções (enum, fila, pilha e dicionario)
 
 -------------------------------------------------------------
 DESAFIOS
