@@ -11,9 +11,11 @@ Exercícios e exemplos do livro "Use a cabeça C# - 2010"
 
 * Capítulo 5 : Encapsulamento, a importância de mantar os atributos e mótodos protegidos
 
-* Capítulo 6 : Herança, entendendo classes base e contrutores
+* Capítulo 6 : Herança, entendendo classes base e construtores
 
 * Capítulo 7 : Interfaces e classes abstratas
+
+* Capítulo 8 : Listas e coleções (fila, pilha e dicionario)
 
 -------------------------------------------------------------
 DESAFIOS
@@ -23,3 +25,5 @@ DESAFIOS
 * Colmeia
 
 * ConhecendoACasa
+
+* VaPescar
