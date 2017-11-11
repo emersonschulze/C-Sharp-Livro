@@ -1,0 +1,10 @@
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo8\Exercicio\bin\Debug\Exercicio.exe.config
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo8\Exercicio\bin\Debug\Exercicio.exe
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo8\Exercicio\bin\Debug\Exercicio.pdb
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo8\Exercicio\obj\Debug\Exercicio.csprojResolveAssemblyReference.cache
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo8\Exercicio\obj\Debug\Exercicio.Form1.resources
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo8\Exercicio\obj\Debug\Exercicio.Properties.Resources.resources
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo8\Exercicio\obj\Debug\Exercicio.csproj.GenerateResource.Cache
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo8\Exercicio\obj\Debug\Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo8\Exercicio\obj\Debug\Exercicio.exe
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo8\Exercicio\obj\Debug\Exercicio.pdb

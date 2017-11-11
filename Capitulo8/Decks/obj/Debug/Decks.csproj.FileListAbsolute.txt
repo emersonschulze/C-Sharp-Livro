@@ -1,0 +1,10 @@
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo8\Decks\bin\Debug\Decks.exe.config
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo8\Decks\bin\Debug\Decks.exe
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo8\Decks\bin\Debug\Decks.pdb
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo8\Decks\obj\Debug\Decks.csprojResolveAssemblyReference.cache
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo8\Decks\obj\Debug\Decks.Form1.resources
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo8\Decks\obj\Debug\Decks.Properties.Resources.resources
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo8\Decks\obj\Debug\Decks.csproj.GenerateResource.Cache
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo8\Decks\obj\Debug\Decks.csproj.CoreCompileInputs.cache
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo8\Decks\obj\Debug\Decks.exe
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo8\Decks\obj\Debug\Decks.pdb

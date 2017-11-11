@@ -1,0 +1,10 @@
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo8\Capitulo8\bin\Debug\Capitulo8.exe.config
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo8\Capitulo8\bin\Debug\Capitulo8.exe
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo8\Capitulo8\bin\Debug\Capitulo8.pdb
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo8\Capitulo8\obj\Debug\Capitulo8.csprojResolveAssemblyReference.cache
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo8\Capitulo8\obj\Debug\Capitulo8.Form1.resources
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo8\Capitulo8\obj\Debug\Capitulo8.Properties.Resources.resources
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo8\Capitulo8\obj\Debug\Capitulo8.csproj.GenerateResource.Cache
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo8\Capitulo8\obj\Debug\Capitulo8.csproj.CoreCompileInputs.cache
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo8\Capitulo8\obj\Debug\Capitulo8.exe
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo8\Capitulo8\obj\Debug\Capitulo8.pdb

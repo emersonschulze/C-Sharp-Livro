@@ -1,0 +1,10 @@
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo8\ExemploList\bin\Debug\ExemploList.exe.config
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo8\ExemploList\bin\Debug\ExemploList.exe
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo8\ExemploList\bin\Debug\ExemploList.pdb
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo8\ExemploList\obj\Debug\ExemploList.csprojResolveAssemblyReference.cache
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo8\ExemploList\obj\Debug\ExemploList.Form1.resources
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo8\ExemploList\obj\Debug\ExemploList.Properties.Resources.resources
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo8\ExemploList\obj\Debug\ExemploList.csproj.GenerateResource.Cache
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo8\ExemploList\obj\Debug\ExemploList.csproj.CoreCompileInputs.cache
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo8\ExemploList\obj\Debug\ExemploList.exe
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo8\ExemploList\obj\Debug\ExemploList.pdb
