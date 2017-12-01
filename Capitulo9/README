@@ -1,6 +1,6 @@
 
-* AldoExcuses: Neste projeto há a criação e leitura da arquivos, além disso também foi utilizado controles para abrir especificamente pastas para selecionar o caminho dos arquivos
 
+* AldoExcuses: Neste projeto há a criação e leitura da arquivos, além disso também foi utilizado controles para abrir especificamente pastas para selecionar o caminho dos arquivos
 
 * Serialization: Aqui há um exemplo de serialização dos objetos, armazenado-os em arquivos e logo em seguido os recuperando. 
 
