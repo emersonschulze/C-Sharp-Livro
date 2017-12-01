@@ -1,0 +1,10 @@
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo9\LeitorDeArquivo\bin\Debug\LeitorDeArquivo.exe.config
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo9\LeitorDeArquivo\bin\Debug\LeitorDeArquivo.exe
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo9\LeitorDeArquivo\bin\Debug\LeitorDeArquivo.pdb
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo9\LeitorDeArquivo\obj\Debug\LeitorDeArquivo.csprojResolveAssemblyReference.cache
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo9\LeitorDeArquivo\obj\Debug\LeitorDeArquivo.Form1.resources
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo9\LeitorDeArquivo\obj\Debug\LeitorDeArquivo.Properties.Resources.resources
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo9\LeitorDeArquivo\obj\Debug\LeitorDeArquivo.csproj.GenerateResource.Cache
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo9\LeitorDeArquivo\obj\Debug\LeitorDeArquivo.csproj.CoreCompileInputs.cache
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo9\LeitorDeArquivo\obj\Debug\LeitorDeArquivo.exe
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo9\LeitorDeArquivo\obj\Debug\LeitorDeArquivo.pdb
