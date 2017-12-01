@@ -1,0 +1,10 @@
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo9\WriteAndRead\bin\Debug\WriteAndRead.exe.config
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo9\WriteAndRead\bin\Debug\WriteAndRead.exe
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo9\WriteAndRead\bin\Debug\WriteAndRead.pdb
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo9\WriteAndRead\obj\Debug\WriteAndRead.csprojResolveAssemblyReference.cache
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo9\WriteAndRead\obj\Debug\WriteAndRead.Form1.resources
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo9\WriteAndRead\obj\Debug\WriteAndRead.Properties.Resources.resources
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo9\WriteAndRead\obj\Debug\WriteAndRead.csproj.GenerateResource.Cache
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo9\WriteAndRead\obj\Debug\WriteAndRead.csproj.CoreCompileInputs.cache
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo9\WriteAndRead\obj\Debug\WriteAndRead.exe
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo9\WriteAndRead\obj\Debug\WriteAndRead.pdb
