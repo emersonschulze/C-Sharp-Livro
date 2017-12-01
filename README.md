@@ -17,6 +17,8 @@ Exercícios e exemplos do livro "Use a cabeça C# - 2010"
 
 * Capítulo 8 : Listas e coleções (enum, fila, pilha e dicionario)
 
+* Capítulo 9 : Lendo e escrevendo arquivos (Classe stream, serialização de objetos, binário e hexadecimal)
+
 -------------------------------------------------------------
 DESAFIOS
 
