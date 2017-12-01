@@ -1,0 +1,10 @@
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo9\Capitulo9\bin\Debug\Capitulo9.exe.config
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo9\Capitulo9\bin\Debug\Capitulo9.exe
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo9\Capitulo9\bin\Debug\Capitulo9.pdb
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo9\Capitulo9\obj\Debug\Capitulo9.csprojResolveAssemblyReference.cache
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo9\Capitulo9\obj\Debug\Capitulo9.Form1.resources
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo9\Capitulo9\obj\Debug\Capitulo9.Properties.Resources.resources
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo9\Capitulo9\obj\Debug\Capitulo9.csproj.GenerateResource.Cache
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo9\Capitulo9\obj\Debug\Capitulo9.csproj.CoreCompileInputs.cache
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo9\Capitulo9\obj\Debug\Capitulo9.exe
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo9\Capitulo9\obj\Debug\Capitulo9.pdb
