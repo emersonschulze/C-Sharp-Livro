@@ -1,0 +1,10 @@
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo9\Serialization\bin\Debug\Serialization.exe.config
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo9\Serialization\bin\Debug\Serialization.exe
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo9\Serialization\bin\Debug\Serialization.pdb
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo9\Serialization\obj\Debug\Serialization.csprojResolveAssemblyReference.cache
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo9\Serialization\obj\Debug\Serialization.Properties.Resources.resources
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo9\Serialization\obj\Debug\Serialization.csproj.GenerateResource.Cache
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo9\Serialization\obj\Debug\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo9\Serialization\obj\Debug\Serialization.exe
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo9\Serialization\obj\Debug\Serialization.pdb
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo9\Serialization\obj\Debug\Serialization.Form1.resources
