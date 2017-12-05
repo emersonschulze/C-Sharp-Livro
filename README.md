@@ -19,6 +19,8 @@ Exercícios e exemplos do livro "Use a cabeça C# - 2010"
 
 * Capítulo 9 : Lendo e escrevendo arquivos (Classe stream, serialização de objetos, binário e hexadecimal)
 
+* Capítulo 10 : Tratamento de exceções
+
 -------------------------------------------------------------
 DESAFIOS
 
