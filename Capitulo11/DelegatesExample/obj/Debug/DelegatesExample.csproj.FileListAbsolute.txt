@@ -1,0 +1,9 @@
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo11\DelegatesExample\bin\Debug\DelegatesExample.exe.config
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo11\DelegatesExample\bin\Debug\DelegatesExample.exe
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo11\DelegatesExample\bin\Debug\DelegatesExample.pdb
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo11\DelegatesExample\obj\Debug\DelegatesExample.Properties.Resources.resources
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo11\DelegatesExample\obj\Debug\DelegatesExample.csproj.GenerateResource.Cache
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo11\DelegatesExample\obj\Debug\DelegatesExample.csproj.CoreCompileInputs.cache
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo11\DelegatesExample\obj\Debug\DelegatesExample.exe
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo11\DelegatesExample\obj\Debug\DelegatesExample.pdb
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo11\DelegatesExample\obj\Debug\DelegatesExample.Form1.resources
