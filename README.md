@@ -21,6 +21,8 @@ Exercícios e exemplos do livro "Use a cabeça C# - 2010"
 
 * Capítulo 10 : Tratamento de exceções
 
+* Capítulo 11 : Eventos e delegados
+
 -------------------------------------------------------------
 DESAFIOS
 
