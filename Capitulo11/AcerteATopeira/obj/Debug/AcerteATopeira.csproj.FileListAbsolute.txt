@@ -1,0 +1,10 @@
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo11\AcerteATopeira\bin\Debug\AcerteATopeira.exe.config
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo11\AcerteATopeira\bin\Debug\AcerteATopeira.exe
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo11\AcerteATopeira\bin\Debug\AcerteATopeira.pdb
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo11\AcerteATopeira\obj\Debug\AcerteATopeira.csprojResolveAssemblyReference.cache
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo11\AcerteATopeira\obj\Debug\AcerteATopeira.Form1.resources
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo11\AcerteATopeira\obj\Debug\AcerteATopeira.Properties.Resources.resources
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo11\AcerteATopeira\obj\Debug\AcerteATopeira.csproj.GenerateResource.Cache
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo11\AcerteATopeira\obj\Debug\AcerteATopeira.csproj.CoreCompileInputs.cache
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo11\AcerteATopeira\obj\Debug\AcerteATopeira.exe
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo11\AcerteATopeira\obj\Debug\AcerteATopeira.pdb
