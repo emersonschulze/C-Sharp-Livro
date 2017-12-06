@@ -1,0 +1,10 @@
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo11\AnotherExample\bin\Debug\AnotherExample.exe.config
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo11\AnotherExample\bin\Debug\AnotherExample.exe
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo11\AnotherExample\bin\Debug\AnotherExample.pdb
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo11\AnotherExample\obj\Debug\AnotherExample.csprojResolveAssemblyReference.cache
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo11\AnotherExample\obj\Debug\AnotherExample.Form1.resources
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo11\AnotherExample\obj\Debug\AnotherExample.Properties.Resources.resources
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo11\AnotherExample\obj\Debug\AnotherExample.csproj.GenerateResource.Cache
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo11\AnotherExample\obj\Debug\AnotherExample.csproj.CoreCompileInputs.cache
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo11\AnotherExample\obj\Debug\AnotherExample.exe
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\Capitulo11\AnotherExample\obj\Debug\AnotherExample.pdb
