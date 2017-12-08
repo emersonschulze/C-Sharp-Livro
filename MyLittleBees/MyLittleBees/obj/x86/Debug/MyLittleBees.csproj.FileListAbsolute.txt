@@ -1,0 +1,9 @@
+C:\Users\Bárbara\Desktop\Chapter 12 Beehive Simulator\Chapter 12 Beehive Simulator\bin\Debug\Chapter 12 Beehive Simulator.exe
+C:\Users\Bárbara\Desktop\Chapter 12 Beehive Simulator\Chapter 12 Beehive Simulator\bin\Debug\Chapter 12 Beehive Simulator.pdb
+C:\Users\Bárbara\Desktop\Chapter 12 Beehive Simulator\Chapter 12 Beehive Simulator\obj\x86\Debug\MyLittleBees.csprojResolveAssemblyReference.cache
+C:\Users\Bárbara\Desktop\Chapter 12 Beehive Simulator\Chapter 12 Beehive Simulator\obj\x86\Debug\MyLittleBees.Form1.resources
+C:\Users\Bárbara\Desktop\Chapter 12 Beehive Simulator\Chapter 12 Beehive Simulator\obj\x86\Debug\BeehiveSimulator.Properties.Resources.resources
+C:\Users\Bárbara\Desktop\Chapter 12 Beehive Simulator\Chapter 12 Beehive Simulator\obj\x86\Debug\MyLittleBees.csproj.GenerateResource.Cache
+C:\Users\Bárbara\Desktop\Chapter 12 Beehive Simulator\Chapter 12 Beehive Simulator\obj\x86\Debug\MyLittleBees.csproj.CoreCompileInputs.cache
+C:\Users\Bárbara\Desktop\Chapter 12 Beehive Simulator\Chapter 12 Beehive Simulator\obj\x86\Debug\Chapter 12 Beehive Simulator.exe
+C:\Users\Bárbara\Desktop\Chapter 12 Beehive Simulator\Chapter 12 Beehive Simulator\obj\x86\Debug\Chapter 12 Beehive Simulator.pdb
