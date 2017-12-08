@@ -23,6 +23,8 @@ Exercícios e exemplos do livro "Use a cabeça C# - 2010"
 
 * Capítulo 11 : Eventos e delegados
 
+* Capítulo 12 : Relembrando e reutilizando os conceitos aprendidos
+
 -------------------------------------------------------------
 DESAFIOS
 
