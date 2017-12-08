@@ -1,0 +1,10 @@
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\MyLittleBees\TimerExample\bin\Debug\TimerExample.exe.config
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\MyLittleBees\TimerExample\bin\Debug\TimerExample.exe
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\MyLittleBees\TimerExample\bin\Debug\TimerExample.pdb
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\MyLittleBees\TimerExample\obj\Debug\TimerExample.csprojResolveAssemblyReference.cache
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\MyLittleBees\TimerExample\obj\Debug\TimerExample.Form1.resources
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\MyLittleBees\TimerExample\obj\Debug\TimerExample.Properties.Resources.resources
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\MyLittleBees\TimerExample\obj\Debug\TimerExample.csproj.GenerateResource.Cache
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\MyLittleBees\TimerExample\obj\Debug\TimerExample.csproj.CoreCompileInputs.cache
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\MyLittleBees\TimerExample\obj\Debug\TimerExample.exe
+C:\Users\Bárbara\Documents\Visual Studio 2017\Projects\MyLittleBees\TimerExample\obj\Debug\TimerExample.pdb
